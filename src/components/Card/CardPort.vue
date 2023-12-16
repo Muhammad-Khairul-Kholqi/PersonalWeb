@@ -6,8 +6,8 @@
                 <h5 class="card-title" >Explanation</h5>
                 <p class="card-text">This is a daily agenda website that I developed with my team.</p>
                 <div class="language-logo d-flex">
-                    <img src="@/assets/img/php.png">
-                    <img src="@/assets/img/css-3.png">
+                    <img src="@/assets/img/php-logo.png">
+                    <img src="@/assets/img/logo-css.png">
                 </div>
                 <a href="https://github.com/Muhammad-Khairul-Kholqi/Agenda-Harian.git" class="btn btn-primary">Github
                     Link</a>
@@ -20,9 +20,9 @@
                 <h5 class="card-title" >Explanation</h5>
                 <p class="card-text">This is a website that is studied at school.</p>
                 <div class="language-logo d-flex">
-                    <img src="@/assets/img/laravel.png">
-                    <img src="@/assets/img/php.png">
-                    <img src="@/assets/img/bootstrap.png">
+                    <img src="@/assets/img/laravel-logo.png">
+                    <img src="@/assets/img/php-logo.png">
+                    <img src="@/assets/img/bootstrap-logo.png">
                 </div>
                 <a href="https://github.com/Muhammad-Khairul-Kholqi/ApotekApp.git" class="btn btn-primary">Github Link</a>
             </div>
@@ -35,9 +35,9 @@
                 <p class="card-text">This is a website that I created during industrial class.</p>
                 <div class="language-logo d-flex">
                     <img src="@/assets/img/logovue.png">
-                    <img src="@/assets/img/js.png">
-                    <img src="@/assets/img/bootstrap.png">
-                    <img src="@/assets/img/css-3.png">
+                    <img src="@/assets/img/js-logo.png">
+                    <img src="@/assets/img/bootstrap-logo.png">
+                    <img src="@/assets/img/logo-css.png">
                 </div>
                 <a href="https://github.com/Muhammad-Khairul-Kholqi/WaroengSawaregnaVue.git" class="btn btn-primary">Github Link</a>
             </div>
@@ -49,8 +49,8 @@
                 <h5 class="card-title" >Explanation</h5>
                 <p class="card-text">This is the website I'm working on for the end of the semester.</p>
                 <div class="language-logo d-flex">
-                    <img src="@/assets/img/php.png">
-                    <img src="@/assets/img/css-3.png">
+                    <img src="@/assets/img/php-logo.png">
+                    <img src="@/assets/img/logo-css.png">
                 </div>
                 <a href="https://github.com/Muhammad-Khairul-Kholqi/WebsiteSchool.git" class="btn btn-primary">Github Link</a>
             </div>
@@ -62,9 +62,9 @@
                 <h5 class="card-title" >Explanation</h5>
                 <p class="card-text">This is a simple online shop website that I worked on with my friend.</p>
                 <div class="language-logo d-flex">
-                    <img src="@/assets/img/php.png">
-                    <img src="@/assets/img/css-3.png">
-                    <img src="@/assets/img/js.png">
+                    <img src="@/assets/img/php-logo.png">
+                    <img src="@/assets/img/logo-css.png">
+                    <img src="@/assets/img/js-logo.png">
                 </div>
                 <a href="https://github.com/Muhammad-Khairul-Kholqi/Shop-Urban.git" class="btn btn-primary">Github Link</a>
             </div>

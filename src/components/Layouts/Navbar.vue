@@ -14,8 +14,8 @@
                     <p>Follow me:</p>
                     <div class="sosmed-img">
                         <a href="https://www.linkedin.com/in/muhammad-khairul-kholqi-b9029b24a/"><img src="@/assets/img/linkedin-logo.png"></a>
-                        <a href="https://github.com/Muhammad-Khairul-Kholqi"><img src="@/assets/img/github.png"></a>
-                        <a href="https://www.instagram.com/kkyhrl/"><img src="@/assets/img/instagram.png"></a>
+                        <a href="https://github.com/Muhammad-Khairul-Kholqi"><img src="@/assets/img/github-logo.png"></a>
+                        <a href="https://www.instagram.com/kkyhrl/"><img src="@/assets/img/instagram-logo.png"></a>
                     </div>
                 </div>
             </div>

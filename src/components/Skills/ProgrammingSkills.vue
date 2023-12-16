@@ -11,7 +11,7 @@
         </div>
         <div class="kartu-program-skills">
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/html.png" style="width: 100px;">
+                <img src="@/assets/img/html-logo.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">HTML
                     </p>
@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/css-3.png" style="width: 100px;">
+                <img src="@/assets/img/logo-css.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">CSS
                     </p>
@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/php.png" style="width: 100px;">
+                <img src="@/assets/img/php-logo.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">PHP
                     </p>
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/laravel.png" style="width: 100px;">
+                <img src="@/assets/img/laravel-logo.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">Laravel
                     </p>
@@ -56,7 +56,7 @@
                 </div>
             </div>
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/Bootstrap.png" style="width: 100px;">
+                <img src="@/assets/img/bootstrap-logo.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">Bootstrap
                     </p>
@@ -64,7 +64,7 @@
                 </div>
             </div>
             <div class="card-skills-program" data-aos="zoom-in">
-                <img src="@/assets/img/mysql.png" style="width: 100px;">
+                <img src="@/assets/img/mysql-logo.png" style="width: 100px;">
                 <div class="card__content">
                     <p class="card__title">MySql
                     </p>
