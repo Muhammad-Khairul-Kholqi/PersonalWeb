@@ -36,6 +36,7 @@ export default {
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 20px 10%;
+  margin-bottom: 200px;
 }
 
 .home-page-kiri {

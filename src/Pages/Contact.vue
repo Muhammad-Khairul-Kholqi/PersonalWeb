@@ -88,6 +88,7 @@ export default {
 <style>
 .title-sosmed {
     background-color: #FBFBFC;
+    margin-bottom: 100px;
 }
 
 .title-info {
